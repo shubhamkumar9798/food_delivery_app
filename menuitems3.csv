@@ -1,0 +1,501 @@
+Restaurant,Item ID,Item,Price,Veg/Non-Veg,Quantity,Rating
+Nescafe,180,Vanilla Ice Cream Scoop,50,Veg,20,5
+Nescafe,752,Chocolate Ice Cream Scoop,50,Veg,20,6
+Nescafe,269,Strawberry Ice Cream Scoop,50,Veg,20,8.5
+Nescafe,249,Butterscotch Ice Cream Scoop,50,Veg,20,6.2
+Nescafe,428,Mango Ice Cream Scoop,50,Veg,20,5
+Nescafe,236,Pistachio Ice Cream Scoop,50,Veg,20,3
+Nescafe,439,Caramel Ice Cream Scoop,50,Veg,20,6
+Nescafe,217,Cookies and Cream Ice Cream Scoop,50,Veg,20,9.5
+Nescafe,557,Mint Chocolate Chip Ice Cream Scoop,50,Veg,20,9
+Nescafe,444,Fruit Salad Ice Cream Scoop,50,Veg,20,9.8
+Nescafe,876,Rainbow Sherbet Ice Cream Scoop,50,Veg,20,9.6
+Nescafe,124,Bubblegum Ice Cream Scoop,50,Veg,20,9.3
+Nescafe,932,Peach Ice Cream Scoop,50,Veg,20,5
+Nescafe,829,Coffee Ice Cream Scoop,50,Veg,20,4
+Nescafe,794,Choco Fudge Brownie Sundae,150,Veg,20,6
+Nescafe,749,Fruit Medley Ice Cream Sundae,120,Veg,20,7
+Nescafe,394,Chocolate Lava Ice Cream Sundae,180,Veg,20,9
+Nescafe,554,Nutty Caramel Crunch Ice Cream Sundae,160,Veg,20,10
+Nescafe,316,Berry Blast Ice Cream Sundae,140,Veg,20,9.9
+Nescafe,929,Ibaco Special Ice Cream Sundae,200,Veg,20,5.6
+Asia7,678,Vegetable Spring Rolls,180,Veg,50,8.8
+Asia7,611,Chicken Satay,220,Non-Veg,50,3.2
+Asia7,386,Pad Thai Noodles,250,Veg,50,9.9
+Asia7,799,Chicken Fried Rice,280,Non-Veg,50,8.6
+Asia7,779,Vegetable Manchurian,200,Veg,50,8.5
+Asia7,940,Sushi Platter (Assorted),500,Non-Veg,50,8.7
+Asia7,836,Tom Yum Soup,220,Non-Veg,50,5.4
+Asia7,554,Vegetable Dim Sum,180,Veg,50,9
+Asia7,162,Chicken Momos,200,Non-Veg,50,9.5
+Asia7,341,Kung Pao Chicken,300,Non-Veg,50,9.9
+Asia7,119,Vegetable Thai Green Curry,240,Veg,50,9.99
+Asia7,203,Chicken Teriyaki,320,Non-Veg,50,10
+Asia7,627,Paneer Tikka,250,Veg,50,5.6
+Asia7,750,Szechwan Fried Rice,260,Veg,50,3.2
+Asia7,759,Sweet and Sour Fish,350,Non-Veg,50,6.4
+Asia7,389,Prawn Tempura,380,Non-Veg,50,6.5
+Asia7,507,Vegetable Chow Mein,220,Veg,50,2
+Asia7,450,Peking Duck (Half),600,Non-Veg,50,1
+Asia7,282,Vegetable Spring Onion Pancake,200,Veg,50,7.23
+Asia7,655,Shrimp Pad Thai,320,Non-Veg,50,3.89
+Ibaco,656,Vanilla Ice Cream Scoop,50,Veg,50,2.14
+Ibaco,520,Chocolate Ice Cream Scoop,50,Veg,50,9.76
+Ibaco,933,Strawberry Ice Cream Scoop,50,Veg,50,5.01
+Ibaco,914,Butterscotch Ice Cream Scoop,50,Veg,50,8.45
+Ibaco,666,Mango Ice Cream Scoop,50,Veg,50,4.67
+Ibaco,252,Pistachio Ice Cream Scoop,50,Veg,50,6.92
+Ibaco,637,Caramel Ice Cream Scoop,50,Veg,50,1.34
+Ibaco,111,Cookies and Cream Ice Cream Scoop,50,Veg,50,7.98
+Ibaco,236,Mint Chocolate Chip Ice Cream Scoop,50,Veg,50,5
+Ibaco,297,Fruit Salad Ice Cream Scoop,50,Veg,50,6
+Ibaco,704,Rainbow Sherbet Ice Cream Scoop,50,Veg,50,8.5
+Ibaco,550,Bubblegum Ice Cream Scoop,50,Veg,50,6.2
+Ibaco,928,Peach Ice Cream Scoop,50,Veg,50,5
+Ibaco,790,Coffee Ice Cream Scoop,50,Veg,50,3
+Ibaco,893,Choco Fudge Brownie Sundae,150,Veg,50,6
+Ibaco,179,Fruit Medley Ice Cream Sundae,120,Veg,50,9.5
+Ibaco,830,Chocolate Lava Ice Cream Sundae,180,Veg,50,9
+Ibaco,667,Nutty Caramel Crunch Ice Cream Sundae,160,Veg,50,9.8
+Ibaco,619,Berry Blast Ice Cream Sundae,140,Veg,50,9.6
+Ibaco,191,Ibaco Special Ice Cream Sundae,200,Veg,50,9.3
+Popeyes,786,Classic Chicken Sandwich,200,Non-Veg,50,5
+Popeyes,684,Spicy Chicken Sandwich,220,Non-Veg,50,4
+Popeyes,533,Chicken Tenders (3 pcs),250,Non-Veg,50,6
+Popeyes,368,Chicken Tenders (5 pcs),350,Non-Veg,50,7
+Popeyes,966,Cajun Fries (Regular),100,Veg,50,9
+Popeyes,544,Buttermilk Biscuit,50,Veg,50,10
+Popeyes,251,Louisiana Chicken Combo (2 pcs),350,Non-Veg,50,9.9
+Popeyes,682,Louisiana Chicken Combo (3 pcs),450,Non-Veg,50,5.6
+Popeyes,711,Cajun Fish Sandwich,220,Non-Veg,50,8.8
+Popeyes,419,Cajun Fish Combo,400,Non-Veg,50,3.2
+Popeyes,689,Shrimp Combo,400,Non-Veg,50,9.9
+Popeyes,694,Chicken Waffle Tenders (3 pcs),280,Non-Veg,50,8.6
+Popeyes,731,Chicken Waffle Tenders (5 pcs),400,Non-Veg,50,8.5
+Popeyes,706,Red Beans & Rice (Regular),150,Veg,50,8.7
+Popeyes,845,Coleslaw (Regular),100,Veg,50,5.4
+Popeyes,190,Mashed Potatoes with Cajun Gravy (Regular),120,Veg,50,9
+Popeyes,597,Cajun Rice (Regular),130,Veg,50,9.5
+Popeyes,451,Apple Pie,80,Veg,50,9.9
+Popeyes,464,Chocolate Beignets,120,Veg,50,9.99
+Popeyes,175,Sweet Heat Sauce,20,Veg,50,10
+Kaithi,649,Chicken Biryani,280,Non-Veg,40,5.6
+Kaithi,871,Mutton Biryani,320,Non-Veg,40,3.2
+Kaithi,311,Veg Biryani,200,Veg,40,6.4
+Kaithi,970,Egg Biryani,220,Non-Veg,40,6.5
+Kaithi,666,Prawn Biryani,350,Non-Veg,40,2
+Kaithi,946,Chicken 65,180,Non-Veg,40,1
+Kaithi,820,Mutton Chukka,300,Non-Veg,40,7.23
+Kaithi,702,Veg Kurma,150,Veg,40,3.89
+Kaithi,256,Chicken Gravy,200,Non-Veg,40,2.14
+Kaithi,456,Mutton Sukka,320,Non-Veg,40,9.76
+Kaithi,184,Egg Masala,160,Non-Veg,40,5.01
+Kaithi,646,Paneer Butter Masala,220,Veg,40,8.45
+Kaithi,301,Parotta,40,Veg,40,4.67
+Kaithi,203,Idiyappam,50,Veg,40,6.92
+Kaithi,183,Egg Kothu Parotta,120,Non-Veg,40,1.34
+Kaithi,451,Chicken Noodles,180,Non-Veg,40,7.98
+Kaithi,383,Mutton Noodles,220,Non-Veg,40,5
+Kaithi,131,Veg Fried Rice,140,Veg,40,6
+Kaithi,759,Chicken Fried Rice,180,Non-Veg,40,8.5
+Kaithi,965,Fish Curry,250,Non-Veg,40,6.2
+Thalapakatti,434,Chicken Biryani,280,Non-Veg,30,5
+Thalapakatti,199,Mutton Biryani,320,Non-Veg,30,3
+Thalapakatti,230,Vegetable Biryani,220,Veg,30,6
+Thalapakatti,675,Egg Biryani,240,Non-Veg,30,9.5
+Thalapakatti,964,Prawn Biryani,350,Non-Veg,30,9
+Thalapakatti,324,Chicken 65,180,Non-Veg,30,9.8
+Thalapakatti,323,Mutton Chukka,300,Non-Veg,30,9.6
+Thalapakatti,912,Veg Kurma,150,Veg,30,9.3
+Thalapakatti,109,Chicken Gravy,200,Non-Veg,30,5
+Thalapakatti,569,Mutton Sukka,320,Non-Veg,30,4
+Thalapakatti,729,Egg Masala,160,Non-Veg,30,6
+Thalapakatti,284,Paneer Butter Masala,220,Veg,30,7
+Thalapakatti,859,Parotta,40,Veg,30,9
+Thalapakatti,640,Idiyappam,50,Veg,30,10
+Thalapakatti,547,Egg Kothu Parotta,120,Non-Veg,30,9.9
+Thalapakatti,998,Chicken Noodles,180,Non-Veg,30,5.6
+Thalapakatti,602,Mutton Noodles,220,Non-Veg,30,8.8
+Thalapakatti,579,Vegetable Fried Rice,140,Veg,30,3.2
+Thalapakatti,393,Chicken Fried Rice,180,Non-Veg,30,9.9
+Thalapakatti,694,Fish Curry,250,Non-Veg,30,8.6
+Burger King,912,Whopper Burger,149,Non-Veg,55,8.5
+Burger King,364,Big King XL Burger,199,Non-Veg,55,8.7
+Burger King,264,Paneer King Melt Burger,139,Veg,55,5.4
+Burger King,980,Crispy Veg Supreme Burger,99,Veg,55,9
+Burger King,375,Chicken Tandoor Grill Burger,129,Non-Veg,55,9.5
+Burger King,111,Veggie Strips Burger,79,Veg,55,9.9
+Burger King,524,Grilled Chicken Burger,119,Non-Veg,55,9.99
+Burger King,246,BK Veggie Burger,89,Veg,55,10
+Burger King,688,Chicken Chilli Cheese Burger,139,Non-Veg,55,5.6
+Burger King,165,Paneer King Burger,129,Veg,55,3.2
+Burger King,591,BBQ Bacon King Burger,219,Non-Veg,55,6.4
+Burger King,733,Cheese Melt Veg Burger,109,Veg,55,6.5
+Burger King,370,Mutton Whopper Burger,179,Non-Veg,55,2
+Burger King,689,Crispy Chicken Supreme Burger,129,Non-Veg,55,1
+Burger King,431,Fiery Chicken Burger,139,Non-Veg,55,7.23
+Burger King,995,Jalapeno King Burger,149,Non-Veg,55,3.89
+Burger King,957,Bacon King Burger,209,Non-Veg,55,2.14
+Burger King,598,Cheese Lover Veg Burger,119,Veg,55,9.76
+Burger King,992,Spicy Paneer Burger,119,Veg,55,5.01
+Burger King,485,Angriest Whopper Burger,199,Non-Veg,55,8.45
+Pakwan,835,Paneer Tikka Masala,220,Veg,15,4.67
+Pakwan,511,Butter Chicken,250,Non-Veg,15,6.92
+Pakwan,297,Dal Makhani,180,Veg,15,1.34
+Pakwan,102,Chicken Biryani,280,Non-Veg,15,7.98
+Pakwan,159,Veg Pulao,150,Veg,15,5
+Pakwan,296,Palak Paneer,200,Veg,15,6
+Pakwan,337,Chicken Curry,240,Non-Veg,15,8.5
+Pakwan,158,Vegetable Korma,190,Veg,15,6.2
+Pakwan,956,Tandoori Chicken,270,Non-Veg,15,5
+Pakwan,662,Chana Masala,160,Veg,15,3
+Pakwan,537,Mutton Rogan Josh,300,Non-Veg,15,6
+Pakwan,611,Paneer Butter Masala,210,Veg,15,9.5
+Pakwan,408,Chicken Tikka,250,Non-Veg,15,9
+Pakwan,373,Aloo Gobi,170,Veg,15,9.8
+Pakwan,961,Fish Curry,280,Non-Veg,15,9.6
+Pakwan,160,Mixed Vegetable Pakora,120,Veg,15,9.3
+Pakwan,611,Chicken 65,220,Non-Veg,15,5
+Pakwan,950,Mutton Biryani,320,Non-Veg,15,4
+Pakwan,375,Baingan Bharta,180,Veg,15,6
+Pakwan,990,Chicken Kebab,240,Non-Veg,15,7
+Krispy Kreme,761,Original Glazed Doughnut,50,Veg,25,9
+Krispy Kreme,875,Chocolate Glazed Doughnut,60,Veg,25,10
+Krispy Kreme,281,Strawberry Glazed Doughnut,60,Veg,25,9.9
+Krispy Kreme,943,Caramel Glazed Doughnut,60,Veg,25,5.6
+Krispy Kreme,205,Classic Original Filled Doughnut,70,Veg,25,8.8
+Krispy Kreme,627,Chocolate Iced with Sprinkles Doughnut,65,Veg,25,3.2
+Krispy Kreme,383,Glazed Raspberry Filled Doughnut,70,Veg,25,9.9
+Krispy Kreme,233,Glazed Lemon Filled Doughnut,70,Veg,25,8.6
+Krispy Kreme,181,New York Cheesecake Doughnut,75,Veg,25,8.5
+Krispy Kreme,104,Chocolate Custard Filled Doughnut,75,Veg,25,8.7
+Krispy Kreme,599,Kreme Filled Doughnut,70,Veg,25,5.4
+Krispy Kreme,605,Apple Cinnamon Filled Doughnut,70,Veg,25,9
+Krispy Kreme,178,Cookies and Kreme Doughnut,75,Veg,25,9.5
+Krispy Kreme,370,Red Velvet Cake Doughnut,80,Veg,25,9.9
+Krispy Kreme,582,Maple Iced Glazed Doughnut,65,Veg,25,9.99
+Krispy Kreme,947,Cinnamon Apple Doughnut,75,Veg,25,10
+Krispy Kreme,866,Strawberry Shortcake Doughnut,80,Veg,25,5.6
+Krispy Kreme,516,Blueberry Cake Doughnut,70,Veg,25,3.2
+Krispy Kreme,459,Chocolate Glazed Cruller Doughnut,70,Veg,25,6.4
+Krispy Kreme,625,Original Glazed Cruller Doughnut,65,Veg,25,6.5
+Udupi Hotel,456,Masala Dosa,80,Veg,25,2
+Udupi Hotel,739,Idli Sambhar,60,Veg,25,1
+Udupi Hotel,472,Vada Sambhar,70,Veg,25,7.23
+Udupi Hotel,703,Plain Dosa,70,Veg,25,3.89
+Udupi Hotel,406,Onion Uttapam,90,Veg,25,2.14
+Udupi Hotel,842,Rava Masala Dosa,100,Veg,25,9.76
+Udupi Hotel,341,Mysore Masala Dosa,90,Veg,25,5.01
+Udupi Hotel,335,Pongal,80,Veg,25,8.45
+Udupi Hotel,314,Vegetable Upma,70,Veg,25,4.67
+Udupi Hotel,489,Ghee Roast Dosa,90,Veg,25,6.92
+Udupi Hotel,873,Rava Idli Sambhar,80,Veg,25,1.34
+Udupi Hotel,921,Set Dosa,80,Veg,25,7.98
+Udupi Hotel,592,Poori Bhaji,90,Veg,25,5
+Udupi Hotel,508,Paper Dosa,100,Veg,25,6
+Udupi Hotel,150,Medu Vada,60,Veg,25,8.5
+Udupi Hotel,319,Rava Kesari,50,Veg,25,6.2
+Udupi Hotel,250,Rava Upma,70,Veg,25,5
+Udupi Hotel,418,Tomato Uttapam,90,Veg,25,3
+Udupi Hotel,582,Ghee Pongal,90,Veg,25,6
+Udupi Hotel,871,Kesari Bath,60,Veg,25,9.5
+Pizza Hut,819,Margherita Pizza (Regular),200,Veg,30,9
+Pizza Hut,218,Farmhouse Pizza (Regular),250,Veg,30,9.8
+Pizza Hut,224,Paneer Tikka Pizza (Regular),280,Veg,30,9.6
+Pizza Hut,135,Veggie Supreme Pizza (Regular),270,Veg,30,9.3
+Pizza Hut,772,Chicken Supreme Pizza (Regular),320,Non-Veg,30,5
+Pizza Hut,273,Chicken Tikka Pizza (Regular),300,Non-Veg,30,4
+Pizza Hut,797,Ultimate Chicken Pizza (Regular),350,Non-Veg,30,6
+Pizza Hut,698,Pepperoni Pizza (Regular),290,Non-Veg,30,7
+Pizza Hut,540,Exotica Pizza (Regular),300,Veg,30,9
+Pizza Hut,168,Spicy Veggie Pizza (Regular),260,Veg,30,10
+Pizza Hut,147,Triple Chicken Feast Pizza (Regular),330,Non-Veg,30,9.9
+Pizza Hut,894,Paneer Overloaded Pizza (Regular),350,Veg,30,5.6
+Pizza Hut,717,Veggie Lovers Pizza (Regular),270,Veg,30,8.8
+Pizza Hut,133,Tandoori Paneer Pizza (Regular),290,Veg,30,3.2
+Pizza Hut,243,Chicken Sausage Pizza (Regular),310,Non-Veg,30,9.9
+Pizza Hut,368,Classic Corn Pizza (Regular),250,Veg,30,8.6
+Pizza Hut,300,Veggie Paradise Pizza (Regular),280,Veg,30,8.5
+Pizza Hut,264,Chicken Overloaded Pizza (Regular),340,Non-Veg,30,8.7
+Pizza Hut,509,BBQ Chicken Pizza (Regular),320,Non-Veg,30,5.4
+Pizza Hut,228,Spicy Chicken Pizza (Regular),310,Non-Veg,30,9
+Taco Bell,280,Bean Burrito,80,Veg,35,9.5
+Taco Bell,304,Cheesy Potato Griller,70,Veg,35,9.9
+Taco Bell,378,Mexican Paneer Taco,90,Veg,35,9.99
+Taco Bell,754,Veggie Quesadilla,100,Veg,35,10
+Taco Bell,972,Chicken Quesadilla,120,Non-Veg,35,5.6
+Taco Bell,265,Grilled Chicken Burrito,110,Non-Veg,35,3.2
+Taco Bell,974,Crunchy Taco,60,Non-Veg,35,6.4
+Taco Bell,816,Nacho Cheese Doritos Locos Tacos,90,Non-Veg,35,6.5
+Taco Bell,701,Mexican Rice Bowl,100,Veg,35,2
+Taco Bell,527,Chalupa Supreme,130,Non-Veg,35,1
+Taco Bell,892,Cheesy Fiesta Potatoes,80,Veg,35,7.23
+Taco Bell,222,Mexican Paneer Chalupa,110,Veg,35,3.89
+Taco Bell,435,Fajita Chicken Burrito,120,Non-Veg,35,2.14
+Taco Bell,557,Nacho Fries,50,Veg,35,9.76
+Taco Bell,821,Mexican Paneer Burrito,100,Veg,35,5.01
+Taco Bell,592,Beefy Nachos Griller,90,Non-Veg,35,8.45
+Taco Bell,497,Chalupa Cravings Box,200,Non-Veg,35,4.67
+Taco Bell,848,Chicken Quesarito,130,Non-Veg,35,6.92
+Taco Bell,151,Veggie Power Menu Bowl,110,Veg,35,1.34
+Taco Bell,189,Cinnamon Twists,40,Veg,35,7.98
+McDonalds,455,McAloo Tikki Burger,50,Veg,35,5
+McDonalds,663,McVeggie Burger,65,Veg,35,6
+McDonalds,746,McSpicy Paneer Burger,85,Veg,35,8.5
+McDonalds,509,Veg Maharaja Mac,150,Veg,35,6.2
+McDonalds,258,Filet-O-Fish Burger,100,Non-Veg,35,5
+McDonalds,908,McChicken Burger,70,Non-Veg,35,3
+McDonalds,332,McSpicy Chicken Burger,90,Non-Veg,35,6
+McDonalds,500,Chicken Maharaja Mac,160,Non-Veg,35,9.5
+McDonalds,812,McEgg Burger,60,Non-Veg,35,9
+McDonalds,116,BigSpicy Chicken Wrap,110,Non-Veg,35,9.8
+McDonalds,653,BigSpicy Paneer Wrap,95,Veg,35,9.6
+McDonalds,231,McVeggie Wrap,80,Veg,35,9.3
+McDonalds,464,McChicken Wrap,90,Non-Veg,35,5
+McDonalds,421,Veg Pizza McPuff,40,Veg,35,4
+McDonalds,452,Chicken McPuff,45,Non-Veg,35,6
+McDonalds,399,McAloo Wrap,60,Veg,35,7
+McDonalds,578,Masala Wedges,50,Veg,35,9
+McDonalds,289,Chicken McNuggets (6 pcs),120,Non-Veg,35,10
+McDonalds,698,French Fries (Regular),60,Veg,35,9.9
+McDonalds,607,Soft Serve Cone,25,Veg,35,5.6
+Pind,400,Butter Chicken,850,Non-Veg,40,8.8
+Pind,612,Paneer Tikka Masala,750,Veg,40,3.2
+Pind,880,Chicken Biryani,900,Non-Veg,40,9.9
+Pind,913,Dal Makhani,600,Veg,40,8.6
+Pind,397,Tandoori Chicken,800,Non-Veg,40,8.5
+Pind,435,Palak Paneer,700,Veg,40,8.7
+Pind,585,Fish Curry,1000,Non-Veg,40,5.4
+Pind,470,Aloo Gobi,550,Veg,40,9
+Pind,206,Chicken Tikka,750,Non-Veg,40,9.5
+Pind,966,Chole Bhature,600,Veg,40,9.9
+Pind,167,Mutton Rogan Josh,1100,Non-Veg,40,9.99
+Pind,655,Vegetable Biryani,700,Veg,40,10
+Pind,777,Keema Naan,250,Non-Veg,40,5.6
+Pind,812,Veg Pulao,550,Veg,40,3.2
+Pind,446,Butter Naan,100,Veg,40,6.4
+Pind,322,Chicken Korma,850,Non-Veg,40,6.5
+Pind,365,Veg Kofta Curry,700,Veg,40,2
+Pind,979,Egg Fried Rice,750,Non-Veg,40,1
+Pind,226,Shahi Paneer,750,Veg,40,7.23
+Pind,854,Tandoori Roti,50,Veg,40,3.89
+S&W,244,Veg Manchow Soup,180,Veg,40,2.14
+S&W,865,Crispy Corn,200,Veg,40,9.76
+S&W,741,Paneer 65,220,Veg,40,5.01
+S&W,811,Mushroom Tikka,240,Veg,40,8.45
+S&W,378,Veg Spring Rolls,220,Veg,40,4.67
+S&W,465,Hakka Noodles,280,Veg,40,6.92
+S&W,606,Paneer Butter Masala,320,Veg,40,1.34
+S&W,669,Veg Biryani,340,Veg,40,7.98
+S&W,708,Chilli Paneer,300,Veg,40,5
+S&W,711,Vegetable Fried Rice,280,Veg,40,6
+S&W,685,Chicken Manchow Soup,220,Non-Veg,40,8.5
+S&W,413,Chilli Chicken,320,Non-Veg,40,6.2
+S&W,780,Chicken Tikka,340,Non-Veg,40,5
+S&W,937,Chicken Spring Rolls,320,Non-Veg,40,3
+S&W,564,Chicken Fried Rice,360,Non-Veg,40,6
+S&W,302,Mutton Rogan Josh,420,Non-Veg,40,9.5
+S&W,655,Fish Curry,380,Non-Veg,40,9
+S&W,343,Prawn Masala,400,Non-Veg,40,9.8
+S&W,779,Goan Fish Fry,360,Non-Veg,40,9.6
+S&W,825,Mutton Biryani,450,Non-Veg,40,9.3
+KFC,800,Original Recipe Chicken,449.25,Non-Veg,32,5
+KFC,261,Extra Crispy Chicken,486.75,Non-Veg,32,4
+KFC,629,Chicken Tenders (3 Piece),374.25,Non-Veg,32,6
+KFC,111,Popcorn Chicken (Small),299.25,Non-Veg,32,7
+KFC,858,Chicken Wings (6 Piece),674.25,Non-Veg,32,9
+KFC,439,Twister Wrap (Grilled),336.75,Veg,32,10
+KFC,258,Zinger Burger,411.75,Non-Veg,32,9.9
+KFC,721,Veggie Burger,374.25,Veg,32,5.6
+KFC,941,Mashed Potatoes (Regular),186.75,Veg,32,8.8
+KFC,286,Coleslaw (Regular),149.25,Veg,32,3.2
+KFC,494,Famous Bowl,449.25,Non-Veg,32,9.9
+KFC,577,Pot Pie,299.25,Non-Veg,32,8.6
+KFC,893,Chicken Little,149.25,Non-Veg,32,8.5
+KFC,109,Original Recipe Fries (Regular),149.25,Veg,32,8.7
+KFC,586,Hot Wings,524.25,Non-Veg,32,5.4
+KFC,353,Mac & Cheese (Regular),186.75,Veg,32,9
+KFC,424,Chicken Sandwich,374.25,Non-Veg,32,9.5
+KFC,888,Corn on the Cob,111.75,Veg,32,9.9
+KFC,474,Chicken Littles (12 Piece),1499.25,Non-Veg,32,9.99
+KFC,745,Soft Drink (Medium),134.25,Veg,32,10
+Murugan Idli,108,Idli,40,Veg,43,5.6
+Murugan Idli,416,Masala Dosa,90,Veg,43,3.2
+Murugan Idli,603,Plain Dosa,70,Veg,43,6.4
+Murugan Idli,522,Onion Uttapam,100,Veg,43,6.5
+Murugan Idli,799,Medhu Vada (2 Pieces),60,Veg,43,2
+Murugan Idli,430,Rava Upma,50,Veg,43,1
+Murugan Idli,619,Pongal,80,Veg,43,7.23
+Murugan Idli,743,Ghee Pongal,90,Veg,43,3.89
+Murugan Idli,884,Rava Dosa,80,Veg,43,2.14
+Murugan Idli,981,Poori,70,Veg,43,9.76
+Murugan Idli,910,Mini Tiffin,120,Veg,43,5.01
+Murugan Idli,293,Ragi Dosa,100,Veg,43,8.45
+Murugan Idli,379,Paneer Dosa,120,Veg,43,4.67
+Murugan Idli,962,Set Dosa,80,Veg,43,6.92
+Murugan Idli,175,Podi Idli (2 Pieces),50,Veg,43,1.34
+Murugan Idli,400,Curd Rice,70,Veg,43,7.98
+Murugan Idli,884,Bisibelabath,90,Veg,43,5
+Murugan Idli,422,Veg Fried Rice,100,Veg,43,6
+Murugan Idli,308,Ghee Roast Dosa,100,Veg,43,8.5
+Murugan Idli,734,Veg Pulao,120,Veg,43,6.2
+Farzi Cafe,250,Dal Chawal Arancini,350,Veg,24,5
+Farzi Cafe,411,Mushroom Galouti,400,Veg,24,3
+Farzi Cafe,674,Dal Chawal Pakora,300,Veg,24,6
+Farzi Cafe,286,Tandoori Margherita Kulcha,280,Veg,24,9.5
+Farzi Cafe,328,Chole Kulcha Box,320,Veg,24,9
+Farzi Cafe,454,Farzi Caesar Salad,380,Veg,24,9.8
+Farzi Cafe,447,Amritsari Chole Bhatture,360,Veg,24,9.6
+Farzi Cafe,146,Paneer Tikka Masala,420,Veg,24,9.3
+Farzi Cafe,933,Dal Makhani,380,Veg,24,5
+Farzi Cafe,197,Paneer Makhani Biryani,450,Veg,24,4
+Farzi Cafe,124,Chicken Tikka Masala,480,Non-Veg,24,6
+Farzi Cafe,225,Butter Chicken Biryani,520,Non-Veg,24,7
+Farzi Cafe,794,Tandoori Chicken Wings,450,Non-Veg,24,9
+Farzi Cafe,112,Prawn Balchao,550,Non-Veg,24,10
+Farzi Cafe,970,Goan Fish Curry,520,Non-Veg,24,9.9
+Farzi Cafe,550,Chicken Biryani,480,Non-Veg,24,5.6
+Farzi Cafe,457,Hyderabadi Chicken Dum Biryani,520,Non-Veg,24,8.8
+Farzi Cafe,376,Butter Garlic Prawns,550,Non-Veg,24,3.2
+Farzi Cafe,715,Amritsari Fish and Chips,520,Non-Veg,24,9.9
+Farzi Cafe,858,Lamb Rogan Josh,550,Non-Veg,24,8.6
+Flower Drum,428,Vegetable Spring Rolls,180,Veg,24,8.5
+Flower Drum,225,Stir-fried Tofu with Vegetables,220,Veg,24,8.7
+Flower Drum,139,Vegetable Manchurian,240,Veg,24,5.4
+Flower Drum,418,Vegetable Chow Mein,200,Veg,24,9
+Flower Drum,969,Paneer Butter Masala,320,Veg,24,9.5
+Flower Drum,665,Palak Paneer,300,Veg,24,9.9
+Flower Drum,504,Veg Biryani,280,Veg,24,9.99
+Flower Drum,489,Paneer Tikka Masala,340,Veg,24,10
+Flower Drum,129,Veg Fried Rice,250,Veg,24,5.6
+Flower Drum,829,Garlic Naan,40,Veg,24,3.2
+Flower Drum,928,Chicken Manchow Soup,220,Non-Veg,24,6.4
+Flower Drum,633,Chilli Chicken,320,Non-Veg,24,6.5
+Flower Drum,402,Chicken Tikka Masala,350,Non-Veg,24,2
+Flower Drum,184,Chicken Fried Rice,300,Non-Veg,24,1
+Flower Drum,929,Fish Curry,380,Non-Veg,24,7.23
+Flower Drum,877,Prawn Masala,400,Non-Veg,24,3.89
+Flower Drum,366,Mutton Rogan Josh,420,Non-Veg,24,2.14
+Flower Drum,167,Lamb Biryani,450,Non-Veg,24,9.76
+Flower Drum,988,Tandoori Chicken,380,Non-Veg,24,5.01
+Flower Drum,370,Fish Fry,350,Non-Veg,24,8.45
+JHind,771,Vegetable Pulao,250,Veg,13,4.67
+JHind,218,Paneer Tikka,320,Veg,13,6.92
+JHind,918,Veg Manchurian,280,Veg,13,1.34
+JHind,270,Dal Tadka,240,Veg,13,7.98
+JHind,439,Aloo Gobi Masala,260,Veg,13,5
+JHind,630,Palak Paneer,300,Veg,13,6
+JHind,564,Veg Biryani,320,Veg,13,8.5
+JHind,152,Butter Naan,40,Veg,13,6.2
+JHind,690,Paneer Butter Masala,340,Veg,13,5
+JHind,656,Veg Pizza,350,Veg,13,3
+JHind,847,Chicken Biryani,380,Non-Veg,13,6
+JHind,897,Butter Chicken,400,Non-Veg,13,9.5
+JHind,158,Chicken Tikka Masala,420,Non-Veg,13,9
+JHind,736,Chicken Curry,360,Non-Veg,13,9.8
+JHind,274,Fish Fry,320,Non-Veg,13,9.6
+JHind,939,Prawn Masala,450,Non-Veg,13,9.3
+JHind,284,Mutton Biryani,480,Non-Veg,13,5
+JHind,422,Goan Fish Curry,420,Non-Veg,13,4
+JHind,187,Lamb Rogan Josh,450,Non-Veg,13,6
+JHind,269,Tandoori Chicken,400,Non-Veg,13,7
+A2B,100,Pongal Vada,80,Veg,29,5.6
+A2B,279,Ghee Roast Dosa,65,Veg,29,8.8
+A2B,618,Medu Vada,50,Veg,29,3.2
+A2B,714,Masala Dosa,80,Veg,29,9
+A2B,392,Idli Sambar,50,Veg,29,10
+A2B,349,Onion Rava Masala Dosa,100,Veg,29,9.9
+A2B,841,Paneer Butter Masala,120,Veg,29,9.9
+A2B,883,Chole Bhature,110,Veg,29,8.6
+A2B,809,Veg Pulao,130,Veg,29,8.5
+A2B,749,Mushroom Manchurian,120,Veg,29,8.7
+A2B,652,Vegetable Biryani,130,Veg,29,5.4
+A2B,440,Butter Naan,60,Veg,29,9
+A2B,415,Palak Paneer,120,Veg,29,9.5
+A2B,666,Pav Bhaji,80,Veg,29,9.9
+A2B,848,Masala Puri,90,Veg,29,9.99
+A2B,727,Rava Upma,60,Veg,29,10
+A2B,964,Poori Masala,80,Veg,29,5.6
+A2B,604,Gobi Manchurian,110,Veg,29,3.2
+A2B,610,Tomato Uttapam,70,Veg,29,6.4
+A2B,527,Vegetable Fried Rice,130,Veg,29,6.5
+Bilal,580,Chicken Biryani,200,Non-Veg,4,2
+Bilal,344,Paneer Tikka Masala,180,Veg,4,1
+Bilal,802,Mutton Rogan Josh,250,Non-Veg,4,7.23
+Bilal,609,Aloo Gobi,150,Veg,4,3.89
+Bilal,403,Tandoori Chicken,220,Non-Veg,4,2.14
+Bilal,187,Palak Paneer,170,Veg,4,9.76
+Bilal,518,Fish Curry,240,Non-Veg,4,5.01
+Bilal,863,Chole Bhature,160,Veg,4,8.45
+Bilal,737,Chicken Tikka,210,Non-Veg,4,4.67
+Bilal,967,Dal Makhani,180,Veg,4,6.92
+Bilal,940,Butter Naan,30,Veg,4,1.34
+Bilal,621,Chicken Korma,230,Non-Veg,4,7.98
+Bilal,760,Veg Pulao,160,Veg,4,5
+Bilal,769,Keema Naan,40,Non-Veg,4,6
+Bilal,944,Veg Biryani,180,Veg,4,8.5
+Bilal,782,Egg Fried Rice,190,Non-Veg,4,6.2
+Bilal,377,Shahi Paneer,200,Veg,4,5
+Bilal,135,Tandoori Roti,20,Veg,4,3
+Bilal,724,Veg Manchurian,150,Veg,4,6
+Bilal,742,Butter Chicken,220,Non-Veg,4,9.5
+Bazaar,240,Vegetable Biryani,280,Veg,10,9
+Bazaar,128,Paneer Tikka Masala,320,Veg,10,9.8
+Bazaar,267,Aloo Gobi,240,Veg,10,9.6
+Bazaar,438,Palak Paneer,300,Veg,10,9.3
+Bazaar,477,Veg Korma,340,Veg,10,5
+Bazaar,672,Dal Makhani,280,Veg,10,4
+Bazaar,742,Veg Manchurian,260,Veg,10,6
+Bazaar,881,Vegetable Pulao,260,Veg,10,7
+Bazaar,385,Tandoori Roti,30,Veg,10,9
+Bazaar,786,Veg Pizza,350,Veg,10,10
+Bazaar,434,Chicken Biryani,350,Non-Veg,10,9.9
+Bazaar,376,Butter Chicken,380,Non-Veg,10,5.6
+Bazaar,107,Chicken Tikka Masala,400,Non-Veg,10,8.8
+Bazaar,948,Chicken Curry,360,Non-Veg,10,3.2
+Bazaar,514,Fish Fry,320,Non-Veg,10,9.9
+Bazaar,162,Prawn Masala,420,Non-Veg,10,8.6
+Bazaar,191,Mutton Biryani,450,Non-Veg,10,8.5
+Bazaar,296,Goan Fish Curry,380,Non-Veg,10,8.7
+Bazaar,112,Lamb Rogan Josh,420,Non-Veg,10,5.4
+Bazaar,702,Tandoori Chicken,380,Non-Veg,10,9
+Dominos,673,Margherita Pizza,80,Veg,32,9.5
+Dominos,236,Pepperoni Pizza,50,Veg,32,9.9
+Dominos,723,Veggie Supreme Pizza,100,Veg,32,9.99
+Dominos,466,Chicken Supreme Pizza,80,Non Veg,32,10
+Dominos,386,BBQ Chicken Pizza,65,Non Veg,32,5.6
+Dominos,832,Extravaganzza Pizza,50,Veg,32,3.2
+Dominos,674,Hawaiian Pizza,120,Veg,32,6.4
+Dominos,504,Cheese Burst Pizza,110,Veg,32,6.5
+Dominos,782,Farmhouse Pizza,130,Veg,32,2
+Dominos,101,Mexican Green Wave Pizza,120,Veg,32,1
+Dominos,134,Paneer Makhani Pizza,130,Veg,32,7.23
+Dominos,629,Non-Veg Supreme Pizza,60,Non-Veg,32,3.89
+Dominos,785,Chicken Golden Delight Pizza,120,Non-Veg,32,2.14
+Dominos,325,Simply Veg Pizza,80,Veg,32,9.76
+Dominos,119,Spicy Chicken Pizza,90,Non-Veg,32,5.01
+Dominos,434,Peppy Paneer Pizza,60,Veg,32,8.45
+Dominos,718,Deluxe Veggie Pizza,80,Veg,32,4.67
+Dominos,356,Cheese and Corn Pizza,110,Veg,32,6.92
+Dominos,824,Chicken Sausage Pizza,70,Non-Veg,32,1.34
+Dominos,692,Veg Parcel,130,Veg,32,7.98
+Absolute Barbeque,954,Paneer Tikka,250,Veg,41,5
+Absolute Barbeque,195,Veg Seekh Kebab,200,Veg,41,6
+Absolute Barbeque,438,Tandoori Mushroom,220,Veg,41,8.5
+Absolute Barbeque,371,Corn on the Cob,180,Veg,41,6.2
+Absolute Barbeque,877,Grilled Pineapple,150,Veg,41,5
+Absolute Barbeque,613,Veg Platter,350,Veg,41,3
+Absolute Barbeque,238,Chicken Tikka,300,Non Veg,41,6
+Absolute Barbeque,686,Mutton Seekh Kebab,350,Non Veg,41,9.5
+Absolute Barbeque,284,Tandoori Prawns,400,Non Veg,41,9
+Absolute Barbeque,841,Fish Amritsari,380,Non Veg,41,9.8
+Absolute Barbeque,547,Barbeque Chicken Wings,320,Non Veg,41,9.6
+Absolute Barbeque,200,Fish Tikka,380,Non Veg,41,9.3
+Absolute Barbeque,212,Butter Garlic Prawns,420,Non Veg,41,5
+Absolute Barbeque,633,Chilli Garlic Fish,380,Non Veg,41,4
+Absolute Barbeque,712,Chicken Platter,450,Non Veg,41,6
+Absolute Barbeque,468,BBQ Chicken Pizza,300,Non Veg,41,7
+Absolute Barbeque,188,Paneer Shashlik,280,Veg,41,9
+Absolute Barbeque,263,Cajun Spiced Potato Wedges,180,Veg,41,10
+Absolute Barbeque,376,Grilled Corn and Spinach Quesadillas,220,Veg,41,9.9
+Absolute Barbeque,498,Peri Peri Chicken,380,Non Veg,41,5.6
